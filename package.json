@@ -1,7 +1,7 @@
 {
   "name": "atom-gmail",
   "main": "./lib/quickstart.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Send emails through gmail, formatted with markdown",
   "activationCommands": {
     "atom-workspace": "atom-gmail:send-email"
