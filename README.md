@@ -3,7 +3,7 @@
 Use Atom to send emails through Gmail.
 
 This is still in Alpha. It works great for me, but there are probably still bugs.
-I suggest sending yourself a given email before sending it to your intended recipient.
+I suggest sending yourself the email you want to send before your intended recipient.
 
 
 
