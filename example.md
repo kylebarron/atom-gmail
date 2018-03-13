@@ -1,3 +1,11 @@
+---
+to:
+  - john.smith@example.com
+  - johndoe@gmail.com
+cc: foo@bar.org
+from: me@helloworld.com
+subject: This email is from Atom!
+---
 # Markdown Cheatsheet
 
 Source text available here: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
