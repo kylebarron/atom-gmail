@@ -31,10 +31,10 @@ The metadata for the email must be written in a YAML header at the top of the do
 
 The available fields in the YAML header are:
 - `to:`
-- `from:`
-- `cc:`
-- `bcc:`
 - `subject:`
+- `from:` (optional)
+- `cc:` (optional)
+- `bcc:` (optional)
 
 For example:
 ```yaml
