@@ -1,0 +1,7 @@
+'.text.md':
+  'New Email':
+    'prefix': 'email'
+    'body': '---\nto: $1\nsubject: $2\ncc: $3\n---'
+  'New Email2':
+    'prefix': 'newemail'
+    'body': '---\nto: $1\nsubject: $2\ncc: $3\n---'
