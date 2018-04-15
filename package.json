@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "description": "Send markdown-formatted emails through Gmail",
   "activationCommands": {
-    "atom-workspace": "atom-gmail:send-email"
+    "atom-text-editor": "atom-gmail:send-email",
+    "atom-workspace": "atom-gmail:authenticate"
   },
   "repository": "https://github.com/kylebarron/atom-gmail",
   "license": "MIT",
