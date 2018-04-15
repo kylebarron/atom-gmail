@@ -31,7 +31,7 @@ The metadata for the email must be written in a YAML header at the top of the do
 
 The available fields in the YAML header are:
 - `to:`
-- `subject:`
+- `subject:` (optional)
 - `from:` (optional)
 - `cc:` (optional)
 - `bcc:` (optional)
