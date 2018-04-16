@@ -1,7 +1,7 @@
 {
   "name": "atom-gmail",
   "main": "./lib/main.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Send markdown-formatted emails through Gmail",
   "activationCommands": {
     "atom-text-editor": "atom-gmail:send-email",
