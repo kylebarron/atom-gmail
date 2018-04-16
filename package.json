@@ -19,6 +19,9 @@
     "js-yaml": "^3.11.0",
     "juice": "^4.2.3",
     "markdown-it": "^8.4.1",
+    "markdown-it-embed-mathjax": "^1.0.19",
+    "markdown-it-mathjax": "^2.0.0",
+    "mathjax-node": "^2.1.0",
     "opn": "^5.2.0"
   }
 }
